@@ -1,26 +1,26 @@
 <div align="center">
 
-  <img src="https://your-logo-url-here.png" alt="Aetherud Logo" width="180" />
+  <img src="https://your-logo-url-here.png" alt="Aetherudev Logo" width="180" />
 
-  <h1>Aetherud</h1>
+  <h1>Aetherudev</h1>
 
   <p>
-    <strong>Hafif modüller, eter gibi bağlı bir bütün.</strong><br/>
-    NATS tabanlı, schema-driven, Docker & Kubernetes destekli modüler entegrasyon SDK'sı.
+    <strong>Hafif modüller, eter gibi bağlı bir bütün.</strong>
+  </p>
+
+  <p>
+    <strong>Yakında.</strong>
   </p>
 
   <p>
     <a href="https://aetherud.com">
       <img src="https://img.shields.io/badge/website-aetherud.com-blue?style=for-the-badge&logo=vercel" alt="Website" />
     </a>
-    <a href="https://github.com/aetherud/aetherud/stargazers">
-      <img src="https://img.shields.io/github/stars/aetherud/aetherud?style=for-the-badge&color=yellow" alt="GitHub Stars" />
+    <a href="https://www.npmjs.com/org/aetherudev">
+      <img src="https://img.shields.io/npm/organization/aetherudev?style=for-the-badge&color=brightgreen" alt="npm Organization" />
     </a>
-    <a href="https://www.npmjs.com/package/aetherud">
-      <img src="https://img.shields.io/npm/v/aetherud?style=for-the-badge&color=brightgreen" alt="npm" />
-    </a>
-    <a href="https://github.com/aetherud/aetherud/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/aetherud/aetherud?style=for-the-badge&color=purple" alt="License" />
+    <a href="https://github.com/aetherudev/aetherudev/stargazers">
+      <img src="https://img.shields.io/github/stars/aetherudev/aetherudev?style=for-the-badge&color=yellow" alt="GitHub Stars" />
     </a>
   </p>
 
@@ -28,38 +28,21 @@
 
 <br />
 
-## Aetherud Nedir?
+<p align="center">
+  Birazdan her şey burada olacak.<br/>
+  Modüller. Bağlantılar. Hafiflik. Güç.<br/>
+  <strong>Yakında.</strong>
+</p>
 
-Aetherud, **ayrık ama uyumlu modüller** oluşturmanızı sağlayan hafif ve güçlü bir SDK'dır.
+<br />
 
-- Modüllerini **TypeBox** ile şema tanımlayarak yaz  
-- **http.get/post** ile diğer modüllere doğal çağrı yap  
-- NATS ile mesajlaşma ve event-driven mimari hazır  
-- Docker Compose veya Kubernetes ile **tek komut** ayağa kaldır  
-- Otomatik validation, logging ve orchestrator desteği  
+<div align="center">
 
-Kısaca: **Uğraşmadan modül yaz, uğraşmadan çalıştır.**
+  <a href="https://discord.gg/your-discord-link">
+    <img src="https://img.shields.io/discord/your-invite-code?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/aetherudev">
+    <img src="https://img.shields.io/twitter/follow/aetherudev?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter" />
+  </a>
 
-## Özellikler
-
-- 🧩 **Decoupled ama Unified** – Modüller bağımsız, ama NATS ile tek bir sistem gibi davranır
-- 📝 **Schema-driven** – TypeBox ile input/output otomatik validate
-- 🚀 **Docker & Kubernetes hazır** – Tek komutla deploy (Compose veya K8s)
-- ⚡ **NATS-powered** – JetStream destekli, yüksek performanslı mesajlaşma
-- 🛠️ **CLI ile kolay başlangıç** – `npx aetherud init` ile 10 saniyede proje
-- 🌐 **Self-hosted & Open-source** – Tamamen kontrol sende, ücret yok
-
-## Başlangıç (Quick Start – 60 saniye)
-
-```bash
-# 1. Projeni oluştur
-npx aetherud init my-awesome-project
-
-# 2. Klasöre gir
-cd my-awesome-project
-
-# 3. Docker ile ayağa kaldır
-aetherud up
-
-# 4. Veya Kubernetes modunda
-aetherud up --k8s
+</div>
